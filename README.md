@@ -1,5 +1,8 @@
 # House-Project-demo
+
 ![](https://github.com/ObinnaIheanachor/House-Project-demo/blob/master/Screenshot%20(1084).png)
+
+![](https://github.com/ObinnaIheanachor/House-Project-demo/blob/master/Screenshot%20(1085).png)
 
 This is a house rent solution application that helps predict rent of houses in some areas in Lagos State, Nigeria. It also provides some details about the distribution of rent by location.
 
